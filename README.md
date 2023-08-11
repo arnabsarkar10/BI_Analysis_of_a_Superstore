@@ -1,6 +1,3 @@
 # BI_Analysis_of_a_Superstore
 
-• This project is made by using Microsoft Power BI.
-• Here, we created a BI dashboard for the Sales & Profit of a Superstore.
-• Highlighted among other things, sales by region & country along with profit 
-  by market & product through multiple reports.
+Analyzed Sales data to identify trends, patterns & anomalies, providing insights into customer & market preferences. Utilized Microsoft Power BI to analyze over 50K records as data in the dataset. Employed Power BI's Power Query (ETL) to clean the raw data. Implemented Data Visualization & created a dashboard highlighting total & year wise sale, profit & loss by products & countries in which the profit was the highest. Alongside these some other insights were top customers & cities both by profit & sale, sale by region to just name a few. The stat of 4 Average Delivery Days & just over 1K Returned Orders are some of the highlights of this report.
